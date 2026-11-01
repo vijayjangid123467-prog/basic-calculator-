@@ -18,15 +18,6 @@ calculator/
 │
 ├── calculator.py
 └── README.md
-▶️ How to Run
-Clone the repository:
-Shell
-git clone https://github.com/your-username/calculator.git
-Navigate to the project directory:
-Shell
-cd calculator
-Run the program:
-Shell
 python calculator.py
 💻 Example Code
 Python
